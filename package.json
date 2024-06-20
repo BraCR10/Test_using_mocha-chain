@@ -1,0 +1,25 @@
+{
+  "name": "mocha_chai",
+  "version": "1.0.0",
+  "description": "This is a pratice using chai.js and mocha.js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "js"
+  ],
+  "author": "BRACR10",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
